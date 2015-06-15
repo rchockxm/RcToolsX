@@ -30,3 +30,5 @@ Start /wait RcToolsX.exe "RcToolsX.rcini"
 * 2008 rchockxm (rchockxm.silver@gmail.com)
 
 <h2><a name="credits" class="anchor" href="#credits"><span class="mini-icon mini-icon-link"></span></a>Credits</h2>
+
+* smashly - _ExtractIconToFile function.
