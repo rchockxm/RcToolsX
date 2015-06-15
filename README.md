@@ -22,7 +22,7 @@ Start /wait RcToolsX.exe "RcToolsX.rcini"
 
 <h2><a name="changelog" class="anchor" href="#changelog"><span class="mini-icon mini-icon-link"></span></a>Changelog</h2>
 
-<h4>1.1</h4/>
+<h4>1.3</h4/>
 - Added Autoit 3.3.12.0 compiler supported. 
 - Fixed some bugs.
 
