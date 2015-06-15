@@ -54,6 +54,21 @@ exf::beep,784,300
 exf::beep,523,500
 ```
 
+<h2><a name="hotkey" class="anchor" href="#hotkey"><span class="mini-icon mini-icon-link"></span></a>Hotkey</h2>
+
+```shell
+Esc: exit
+Pause:  pause a program
+```
+
+```shell
+F2: get the software title
+F3: recording mouse coordinates
+F4: recording input text
+F5: recording keyboard input
+F6: undo the last
+```
+
 <h2><a name="changelog" class="anchor" href="#changelog"><span class="mini-icon mini-icon-link"></span></a>Changelog</h2>
 
 <h4>1.3</h4/>
