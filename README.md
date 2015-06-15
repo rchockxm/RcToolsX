@@ -5,7 +5,7 @@ Automated Installation Kit
 
 <img src="https://img.shields.io/dub/l/vibe-d.svg" />
 
-<h2><a name="example" class="anchor" href="#usage"><span class="mini-icon mini-icon-link"></span></a>Usage</h2>
+<h2><a name="usage" class="anchor" href="#usage"><span class="mini-icon mini-icon-link"></span></a>Usage</h2>
 
 Run from command line. For example:
 
@@ -19,6 +19,8 @@ The file <code>RcToolsX.rcini</code> is optional.
 ```shell
 Start /wait RcToolsX.exe "RcToolsX.rcini"
 ```
+
+<h2><a name="example" class="anchor" href="#example"><span class="mini-icon mini-icon-link"></span></a>Example</h2>
 
 Create the automatically script in <code>RcToolsX.rcini</code>.
 
