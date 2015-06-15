@@ -20,6 +20,36 @@ The file <code>RcToolsX.rcini</code> is optional.
 Start /wait RcToolsX.exe "RcToolsX.rcini"
 ```
 
+Create the automatically script in RcToolsX.rcini.
+
+```shell
+exf::msgbox,"Test3.rcini","RcToolsX 1.3",20,30
+exf::beep,784,300
+exf::beep,659,250
+exf::beep,659,250
+exf::beep,698,300
+exf::beep,587,250
+exf::beep,587,500
+exf::beep,523,300
+exf::beep,587,300
+exf::beep,659,400
+exf::beep,698,300
+exf::beep,784,300
+exf::beep,784,300
+exf::beep,784,600
+exf::beep,784,300
+exf::beep,659,250
+exf::beep,659,500
+exf::beep,698,300
+exf::beep,587,250
+exf::beep,587,500
+exf::beep,523,300
+exf::beep,659,400
+exf::beep,784,300
+exf::beep,784,300
+exf::beep,523,500
+```
+
 <h2><a name="changelog" class="anchor" href="#changelog"><span class="mini-icon mini-icon-link"></span></a>Changelog</h2>
 
 <h4>1.3</h4/>
