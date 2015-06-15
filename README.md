@@ -5,6 +5,8 @@ Automated Installation Kit
 
 <img src="https://img.shields.io/dub/l/vibe-d.svg" />
 
+RcToolsX is a set of software installation aids, with command-line parameters and batch execution in two ways, built-in functions that allow you to create file, registry, Windows, desktop, system, service operations, and support the system environment variables and CMD command can be written directly without conversion.
+
 <h2><a name="usage" class="anchor" href="#usage"><span class="mini-icon mini-icon-link"></span></a>Usage</h2>
 
 Run from command line. For example:
