@@ -1,0 +1,8 @@
+exf::msgbox,"加起來一定等於 22","RcToolsX 1.3",20,30
+file::run,"%SystemRoot%\system32\calc.exe"
+win::mouseclik,"小算盤","","116","122"
+win::mouseclik,"小算盤","","192","215"
+win::mouseclik,"小算盤","","122","156"
+win::mouseclik,"小算盤","","186","221"
+win::mouseclik,"小算盤","","145","130"
+win::mouseclik,"小算盤","","234","221"

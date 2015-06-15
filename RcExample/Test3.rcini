@@ -1,0 +1,25 @@
+exf::msgbox,"這是在 Install 資料夾下的 Test3.rcini 腳本檔","RcToolsX 1.3",20,30
+exf::beep,784,300
+exf::beep,659,250
+exf::beep,659,250
+exf::beep,698,300
+exf::beep,587,250
+exf::beep,587,500
+exf::beep,523,300
+exf::beep,587,300
+exf::beep,659,400
+exf::beep,698,300
+exf::beep,784,300
+exf::beep,784,300
+exf::beep,784,600
+exf::beep,784,300
+exf::beep,659,250
+exf::beep,659,500
+exf::beep,698,300
+exf::beep,587,250
+exf::beep,587,500
+exf::beep,523,300
+exf::beep,659,400
+exf::beep,784,300
+exf::beep,784,300
+exf::beep,523,500
