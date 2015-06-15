@@ -20,7 +20,7 @@ The file <code>RcToolsX.rcini</code> is optional.
 Start /wait RcToolsX.exe "RcToolsX.rcini"
 ```
 
-Create the automatically script in RcToolsX.rcini.
+Create the automatically script in <code>RcToolsX.rcini</code>.
 
 ```shell
 exf::msgbox,"Test3.rcini","RcToolsX 1.3",20,30
