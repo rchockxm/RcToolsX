@@ -14,6 +14,12 @@ Start /wait RcToolsX.exe /rc::readscript "Install\Test2.rcini"
 Start /wait RcToolsX.exe /rc::readscript "Install\Test3.rcini"
 ```
 
+The file <code>RcToolsX.rcini</code> is optional.
+
+```shell
+Start /wait RcToolsX.exe "RcToolsX.rcini"
+```
+
 <h2><a name="changelog" class="anchor" href="#changelog"><span class="mini-icon mini-icon-link"></span></a>Changelog</h2>
 
 <h4>1.1</h4/>
