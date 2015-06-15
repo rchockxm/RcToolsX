@@ -10,8 +10,8 @@ Automated Installation Kit
 Run from command line. For example:
 
 ```shell
-RcToolsX.exe /rc::readscript "Install\Test2.rcini"
-RcToolsX.exe /rc::readscript "Install\Test3.rcini"
+Start /wait RcToolsX.exe /rc::readscript "Install\Test2.rcini"
+Start /wait RcToolsX.exe /rc::readscript "Install\Test3.rcini"
 ```
 
 <h2><a name="changelog" class="anchor" href="#changelog"><span class="mini-icon mini-icon-link"></span></a>Changelog</h2>
